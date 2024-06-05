@@ -17,9 +17,9 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 
-const fullName = ref('Rui Rou Teo');
+const fullName = ref('Name');
 const imageSrc = ref('/profile.jpeg');
-const contactDetails = ref('3D Character Artist | teoruirou@gmail.com | (628) 502 - 8955')
+const contactDetails = ref('Information')
 
 const handlePortfolioClick = () => {
   // Handle Portfolio button click
